@@ -1,0 +1,38 @@
+_repo: The-Lamplighter_31869
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cummins, Maria S. (Maria Susanna)
+    aliases:
+    - Cummins, Maria Susanna
+    - Cumming, Maria Susanna
+    birthdate: 1827
+    deathdate: 1866
+    gutenberg_agent_id: '35526'
+    url: http://www.gutenberg.org/2009/agents/35526
+description: ''
+gutenberg_issued: '2010-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diligence -- Fiction'
+- !lcsh 'Success -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Social status -- Fiction'
+- !lcsh 'Kindness -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Child abuse -- Fiction'
+- !lcsh 'Blind children -- Fiction'
+- !lcsh 'Poverty -- Fiction'
+title: The Lamplighter
+url: http://www.gutenberg.org/ebooks/31869
